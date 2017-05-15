@@ -20,6 +20,15 @@ Mettre une taille limite pour les fichiers qu'on peut uploader.
 Creer une tache planifiée pour l'obtention des valeurs journalieres.
 Choisir une méthode de infinite scrolling
 
-3e semaine (08-11 avril) : 24 heures
+3e semaine (08-11 avril) : 24 heures 
+(friday, Guru worked only until 14:30, RTT)
+
 Infinite scrolling : jquery jscroll
+Externalize Exceptions string in a special file
+Thymeleaf filter made to work as intended (eavest products only vs All)
 Json produce from get controller between two dates
+(a view model class just for producing the fore-mentioned json)
+
+4th week (15-19 april) : 35 hours
+Tests for the service added last week
+
