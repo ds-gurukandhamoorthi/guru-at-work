@@ -29,6 +29,13 @@
 * Json produce from get controller between two dates
 (a view model class just for producing the fore-mentioned json)
 
-4th week (15-19 april) : 35 hours
+4th week (15-19 april) : 35 hours (-2 hours of job interview Webmanity )
 * Tests for the service added last week
+* Move methods to the right place, move some files to the right place
+* Draw jqplot graph by consuming the generated json
+* Add webscraping for OPCVM from morningstar website
+* Zoom to the right level for jqplot graph (dates only)
+* Investigate into the mysterious vanishing of some products and their neighbours positioning themselves chaotically
+(Firefox specific correction)
+(Css fixing height solution brought by Teddy Couriol)
 
