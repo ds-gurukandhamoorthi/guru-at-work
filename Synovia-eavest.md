@@ -48,5 +48,5 @@
 * Add Currency for products and show them with thymeleaf when present
 * Correct the hard coding of URL so as to not have error when deployed to the VPS
 * When Data Not Available on any of the sites throw EavException
-- [] Summarizing discussion with Teddy Couriol about the Synovia-experience
-- [] Tests
+- [ ] Summarizing discussion with Teddy Couriol about the Synovia-experience
+- [ ] Tests
